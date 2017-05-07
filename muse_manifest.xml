@@ -1,0 +1,74 @@
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="b-m-YouTube.com" resolutions="1x" timestamp="1494101479172">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="296011956" ref="index"/>
+    <file name="nomq_index.css" crc="260858745" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="4232573551" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4152223963" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="index"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index"/>
+    <file name="require.js" crc="4234670167" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="433634197" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="как-стать-успешным-ютубером-favicon.ico" crc="4060486259" ref="index"/>
+    <file name="xiaomi-yi-camera-review-pic-08.jpg" crc="3883493663" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u560-15.png" crc="3935459546" ref="index"/>
+    <file name="kompyuternaya-igra.jpg" crc="4077159716" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u581-11.png" crc="4275201723" ref="index"/>
+    <file name="1.jpg" crc="3866035129" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u604-19.png" crc="3831882463" ref="index"/>
+    <file name="u616-7.png" crc="318453585" ref="index"/>
+    <file name="12.jpg" crc="4047035580" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u560-152.png" crc="4173162933" ref="index"/>
+    <file name="u581-112.png" crc="4155775101" ref="index"/>
+    <file name="u604-192.png" crc="3976515853" ref="index"/>
+    <file name="u616-72.png" crc="322948953" ref="index"/>
+    <file name="u560-153.png" crc="4209007180" ref="index"/>
+    <file name="u581-113.png" crc="3803537942" ref="index"/>
+    <file name="u604-193.png" crc="430864816" ref="index"/>
+    <file name="u616-73.png" crc="284685467" ref="index"/>
+    <file name="u560-154.png" crc="225993925" ref="index"/>
+    <file name="kompyuternaya-igra-u567-fr.jpg" crc="3925203419" ref="index"/>
+    <file name="u581-114.png" crc="29789335" ref="index"/>
+    <file name="u604-194.png" crc="322224834" ref="index"/>
+    <file name="u616-74.png" crc="72311769" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="u797-7.png" crc="519723571" ref="index"/>
+    <file name="u851-7.png" crc="3990887656" ref="index"/>
+    <file name="u797-72.png" crc="3894381780" ref="index"/>
+    <file name="u851-72.png" crc="4026879781" ref="index"/>
+    <file name="u797-73.png" crc="160507332" ref="index"/>
+    <file name="u851-73.png" crc="3846021683" ref="index"/>
+    <file name="u797-74.png" crc="184988524" ref="index"/>
+    <file name="u851-74.png" crc="4028873229" ref="index"/>
+    <file name="u560-155.png" crc="4046270238" ref="index"/>
+    <file name="kompyuternaya-igra-u567-fr2.jpg" crc="3767131568" ref="index"/>
+    <file name="u581-115.png" crc="3827581578" ref="index"/>
+    <file name="u604-195.png" crc="4050499079" ref="index"/>
+    <file name="u616-75.png" crc="380015461" ref="index"/>
+    <file name="u797-75.png" crc="4238922175" ref="index"/>
+    <file name="u851-75.png" crc="4254605832" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4117506744" seo="true" mt="1494101224461" redirect="true"/>
+</manifest>
