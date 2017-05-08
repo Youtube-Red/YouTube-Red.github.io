@@ -1,74 +1,204 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="b-m-YouTube.com" resolutions="1x" timestamp="1494101479172">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="b-m-YouTube.com" resolutions="1x" timestamp="1494262889925">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="index.css" crc="296011956" ref="index"/>
-    <file name="nomq_index.css" crc="260858745" ref="index"/>
+    <file name="index.css" crc="4214601856" ref="index"/>
+    <file name="nomq_index.css" crc="4037386714" ref="index"/>
+    <file name="___-________-____.css" crc="340082443" ref="как-рисовать-арты"/>
+    <file name="nomq____-________-____.css" crc="3851190700" ref="как-рисовать-арты"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
-    <file name="museutils.js" crc="4232573551" ref="index"/>
-    <file name="whatinput.js" crc="86476730" ref="index"/>
-    <file name="museconfig.js" crc="4152223963" ref="index"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="index"/>
-    <file name="jquery.watch.js" crc="3844535323" ref="index"/>
-    <file name="require.js" crc="4234670167" ref="index"/>
-    <file name="jquery.museresponsive.js" crc="433634197" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:как-рисовать-арты"/>
+    <file name="museutils.js" crc="4232573551" ref="index:как-рисовать-арты"/>
+    <file name="whatinput.js" crc="86476730" ref="index:как-рисовать-арты"/>
+    <file name="museconfig.js" crc="4152223963" ref="index:как-рисовать-арты"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="index:как-рисовать-арты"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index:как-рисовать-арты"/>
+    <file name="jquery.musemenu.js" crc="38860304" ref="index:как-рисовать-арты"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:как-рисовать-арты"/>
+    <file name="jquery.museresponsive.js" crc="433634197" ref="index:как-рисовать-арты"/>
+    <file name="require.js" crc="4234670167" ref="index:как-рисовать-арты"/>
   </folder>
   <folder name="images">
     <file name="как-стать-успешным-ютубером-favicon.ico" crc="4060486259" ref="index"/>
     <file name="xiaomi-yi-camera-review-pic-08.jpg" crc="3883493663" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u560-15.png" crc="3935459546" ref="index"/>
+    <file name="u1287-4-a.png" crc="4187300020" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:как-рисовать-арты"/>
+    <file name="u1294.png" crc="4087358905" ref="index"/>
+    <file name="u1294-a.png" crc="172152456" ref="index"/>
+    <file name="u560-15.png" crc="4000823145" ref="index"/>
     <file name="kompyuternaya-igra.jpg" crc="4077159716" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u581-11.png" crc="4275201723" ref="index"/>
-    <file name="1.jpg" crc="3866035129" ref="index">
+    <file name="u581-11.png" crc="3971935091" ref="index"/>
+    <file name="1.jpg" crc="3840755790" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u604-19.png" crc="3831882463" ref="index"/>
-    <file name="u616-7.png" crc="318453585" ref="index"/>
-    <file name="12.jpg" crc="4047035580" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="u560-152.png" crc="4173162933" ref="index"/>
-    <file name="u581-112.png" crc="4155775101" ref="index"/>
-    <file name="u604-192.png" crc="3976515853" ref="index"/>
-    <file name="u616-72.png" crc="322948953" ref="index"/>
-    <file name="u560-153.png" crc="4209007180" ref="index"/>
-    <file name="u581-113.png" crc="3803537942" ref="index"/>
-    <file name="u604-193.png" crc="430864816" ref="index"/>
-    <file name="u616-73.png" crc="284685467" ref="index"/>
-    <file name="u560-154.png" crc="225993925" ref="index"/>
+    <file name="u604-19.png" crc="420675363" ref="index"/>
+    <file name="u616-7.png" crc="3799871024" ref="index"/>
+    <file name="u1150-4.png" crc="455049866" ref="index"/>
+    <file name="u1287-4-a2.png" crc="3880964484" ref="index"/>
+    <file name="u12942.png" crc="4073527502" ref="index"/>
+    <file name="u1294-a2.png" crc="3900682031" ref="index"/>
+    <file name="u560-152.png" crc="4220804871" ref="index"/>
+    <file name="u581-112.png" crc="4086732356" ref="index"/>
+    <file name="u604-192.png" crc="3939560895" ref="index"/>
+    <file name="u616-72.png" crc="262979943" ref="index"/>
+    <file name="u1150-42.png" crc="48713543" ref="index"/>
+    <file name="u1287-4-a3.png" crc="3896125169" ref="index"/>
+    <file name="u12943.png" crc="4076732474" ref="index"/>
+    <file name="u1294-a3.png" crc="3975027016" ref="index"/>
+    <file name="u560-153.png" crc="4215722947" ref="index"/>
+    <file name="u581-113.png" crc="4037114138" ref="index"/>
+    <file name="u604-193.png" crc="160657076" ref="index"/>
+    <file name="u616-73.png" crc="4004764327" ref="index"/>
+    <file name="u1150-43.png" crc="4127269869" ref="index"/>
+    <file name="u1287-4-a4.png" crc="270295515" ref="index"/>
+    <file name="u12944.png" crc="3975675057" ref="index"/>
+    <file name="u1294-a4.png" crc="458811418" ref="index"/>
+    <file name="u560-154.png" crc="111953456" ref="index"/>
     <file name="kompyuternaya-igra-u567-fr.jpg" crc="3925203419" ref="index"/>
-    <file name="u581-114.png" crc="29789335" ref="index"/>
-    <file name="u604-194.png" crc="322224834" ref="index"/>
-    <file name="u616-74.png" crc="72311769" ref="index"/>
-    <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="u797-7.png" crc="519723571" ref="index"/>
-    <file name="u851-7.png" crc="3990887656" ref="index"/>
-    <file name="u797-72.png" crc="3894381780" ref="index"/>
-    <file name="u851-72.png" crc="4026879781" ref="index"/>
-    <file name="u797-73.png" crc="160507332" ref="index"/>
-    <file name="u851-73.png" crc="3846021683" ref="index"/>
-    <file name="u797-74.png" crc="184988524" ref="index"/>
-    <file name="u851-74.png" crc="4028873229" ref="index"/>
-    <file name="u560-155.png" crc="4046270238" ref="index"/>
+    <file name="u581-114.png" crc="92077493" ref="index"/>
+    <file name="u604-194.png" crc="208663466" ref="index"/>
+    <file name="u616-74.png" crc="82804126" ref="index"/>
+    <file name="u1150-44.png" crc="3879022262" ref="index"/>
+    <file name="u1287-4-a5.png" crc="4100078271" ref="index"/>
+    <file name="u12945.png" crc="494063990" ref="index"/>
+    <file name="u1294-a5.png" crc="3944606843" ref="index"/>
+    <file name="u560-155.png" crc="4034749219" ref="index"/>
     <file name="kompyuternaya-igra-u567-fr2.jpg" crc="3767131568" ref="index"/>
-    <file name="u581-115.png" crc="3827581578" ref="index"/>
-    <file name="u604-195.png" crc="4050499079" ref="index"/>
-    <file name="u616-75.png" crc="380015461" ref="index"/>
-    <file name="u797-75.png" crc="4238922175" ref="index"/>
-    <file name="u851-75.png" crc="4254605832" ref="index"/>
+    <file name="u581-115.png" crc="4256900228" ref="index"/>
+    <file name="u604-195.png" crc="3797928804" ref="index"/>
+    <file name="u616-75.png" crc="4165058808" ref="index"/>
+    <file name="u1150-45.png" crc="501112995" ref="index"/>
+    <file name="art-paint-dark-sandbox-2538335.jpg" crc="159501865" ref="как-рисовать-арты">
+      <caption webpage="как-рисовать-арты" alt=""/>
+    </file>
+    <file name="u1165.png" crc="184207080" ref="как-рисовать-арты"/>
+    <file name="u1165-r.png" crc="4272074830" ref="как-рисовать-арты"/>
+    <file name="u1172.png" crc="321315464" ref="как-рисовать-арты"/>
+    <file name="u1172-r.png" crc="4134701735" ref="как-рисовать-арты"/>
+    <file name="u1186.png" crc="359402923" ref="как-рисовать-арты"/>
+    <file name="u1186-r.png" crc="359402923" ref="как-рисовать-арты"/>
+    <file name="u1186-m.png" crc="359402923" ref="как-рисовать-арты"/>
+    <file name="u1186-a.png" crc="3855768600" ref="как-рисовать-арты"/>
+    <file name="u1193-4-a.png" crc="285783683" ref="как-рисовать-арты"/>
+    <file name="u1006-4.png" crc="149242727" ref="как-рисовать-арты"/>
+    <file name="u1015-11.png" crc="251303920" ref="как-рисовать-арты"/>
+    <file name="kak-risovat-v-paint-tool-sai.jpg" crc="72778965" ref="как-рисовать-арты">
+      <caption webpage="как-рисовать-арты" alt=""/>
+    </file>
+    <file name="u1032-12.png" crc="343949416" ref="как-рисовать-арты"/>
+    <file name="u1035-8.png" crc="3889497738" ref="как-рисовать-арты"/>
+    <file name="2.jpg" crc="129166686" ref="как-рисовать-арты">
+      <caption webpage="как-рисовать-арты" alt=""/>
+    </file>
+    <file name="u1049-4.png" crc="154904886" ref="как-рисовать-арты"/>
+    <file name="u1052-17.png" crc="81614859" ref="как-рисовать-арты"/>
+    <file name="u1070-4.png" crc="261882476" ref="как-рисовать-арты"/>
+    <file name="u1073-6.png" crc="4109645918" ref="как-рисовать-арты"/>
+    <file name="u1094-4.png" crc="455049866" ref="как-рисовать-арты"/>
+    <file name="u11652.png" crc="3903389986" ref="как-рисовать-арты"/>
+    <file name="u1165-r2.png" crc="4074326211" ref="как-рисовать-арты"/>
+    <file name="u11722.png" crc="435963543" ref="как-рисовать-арты"/>
+    <file name="u1172-r2.png" crc="4105457645" ref="как-рисовать-арты"/>
+    <file name="u11862.png" crc="4151861054" ref="как-рисовать-арты"/>
+    <file name="u1186-r2.png" crc="4151861054" ref="как-рисовать-арты"/>
+    <file name="u1186-m2.png" crc="4151861054" ref="как-рисовать-арты"/>
+    <file name="u1186-a2.png" crc="4258701691" ref="как-рисовать-арты"/>
+    <file name="u1193-4-a2.png" crc="4071868275" ref="как-рисовать-арты"/>
+    <file name="u1006-42.png" crc="127897416" ref="как-рисовать-арты"/>
+    <file name="u1015-112.png" crc="403722771" ref="как-рисовать-арты"/>
+    <file name="u1032-122.png" crc="4050379011" ref="как-рисовать-арты"/>
+    <file name="u1035-82.png" crc="496253655" ref="как-рисовать-арты"/>
+    <file name="u1049-42.png" crc="492305124" ref="как-рисовать-арты"/>
+    <file name="u1052-172.png" crc="3833569543" ref="как-рисовать-арты"/>
+    <file name="u1070-42.png" crc="438616454" ref="как-рисовать-арты"/>
+    <file name="u1073-62.png" crc="498109174" ref="как-рисовать-арты"/>
+    <file name="u1094-42.png" crc="314934198" ref="как-рисовать-арты"/>
+    <file name="u11653.png" crc="4052031313" ref="как-рисовать-арты"/>
+    <file name="u1165-r3.png" crc="536276597" ref="как-рисовать-арты"/>
+    <file name="u11723.png" crc="375484436" ref="как-рисовать-арты"/>
+    <file name="u1172-r3.png" crc="282106921" ref="как-рисовать-арты"/>
+    <file name="u11863.png" crc="4015510537" ref="как-рисовать-арты"/>
+    <file name="u1186-r3.png" crc="4015510537" ref="как-рисовать-арты"/>
+    <file name="u1186-m3.png" crc="4015510537" ref="как-рисовать-арты"/>
+    <file name="u1186-a3.png" crc="4192337475" ref="как-рисовать-арты"/>
+    <file name="u1193-4-a3.png" crc="60527381" ref="как-рисовать-арты"/>
+    <file name="u1006-43.png" crc="516720730" ref="как-рисовать-арты"/>
+    <file name="u1015-113.png" crc="3957595666" ref="как-рисовать-арты"/>
+    <file name="u1032-123.png" crc="4223680864" ref="как-рисовать-арты"/>
+    <file name="u1035-83.png" crc="392595080" ref="как-рисовать-арты"/>
+    <file name="u1049-43.png" crc="4069018976" ref="как-рисовать-арты"/>
+    <file name="u1052-173.png" crc="350819311" ref="как-рисовать-арты"/>
+    <file name="u1070-43.png" crc="4258249065" ref="как-рисовать-арты"/>
+    <file name="u1073-63.png" crc="62596966" ref="как-рисовать-арты"/>
+    <file name="u1094-43.png" crc="48713543" ref="как-рисовать-арты"/>
+    <file name="u11654.png" crc="515093465" ref="как-рисовать-арты"/>
+    <file name="u1165-r4.png" crc="317400691" ref="как-рисовать-арты"/>
+    <file name="u11724.png" crc="4180826214" ref="как-рисовать-арты"/>
+    <file name="u1172-r4.png" crc="4164665525" ref="как-рисовать-арты"/>
+    <file name="u11864.png" crc="4255600091" ref="как-рисовать-арты"/>
+    <file name="u1186-r4.png" crc="4255600091" ref="как-рисовать-арты"/>
+    <file name="u1186-m4.png" crc="4255600091" ref="как-рисовать-арты"/>
+    <file name="u1186-a4.png" crc="4199090300" ref="как-рисовать-арты"/>
+    <file name="u1193-4-a4.png" crc="3883908019" ref="как-рисовать-арты"/>
+    <file name="u1006-44.png" crc="98186208" ref="как-рисовать-арты"/>
+    <file name="u1015-114.png" crc="149706606" ref="как-рисовать-арты"/>
+    <file name="u1032-124.png" crc="358971843" ref="как-рисовать-арты"/>
+    <file name="u1035-84.png" crc="528392025" ref="как-рисовать-арты"/>
+    <file name="u1049-44.png" crc="303223546" ref="как-рисовать-арты"/>
+    <file name="u1052-174.png" crc="144631544" ref="как-рисовать-арты"/>
+    <file name="u1070-44.png" crc="366942396" ref="как-рисовать-арты"/>
+    <file name="u1073-64.png" crc="335350783" ref="как-рисовать-арты"/>
+    <file name="u1094-44.png" crc="4127269869" ref="как-рисовать-арты"/>
+    <file name="u11655.png" crc="4202508707" ref="как-рисовать-арты"/>
+    <file name="u1165-r5.png" crc="3901676506" ref="как-рисовать-арты"/>
+    <file name="u11725.png" crc="294476503" ref="как-рисовать-арты"/>
+    <file name="u1172-r5.png" crc="262720331" ref="как-рисовать-арты"/>
+    <file name="u11865.png" crc="454277262" ref="как-рисовать-арты"/>
+    <file name="u1186-r5.png" crc="454277262" ref="как-рисовать-арты"/>
+    <file name="u1186-m5.png" crc="454277262" ref="как-рисовать-арты"/>
+    <file name="u1186-a5.png" crc="4197131783" ref="как-рисовать-арты"/>
+    <file name="u1193-4-a5.png" crc="4047053002" ref="как-рисовать-арты"/>
+    <file name="u1006-45.png" crc="4098525196" ref="как-рисовать-арты"/>
+    <file name="u1015-115.png" crc="471850112" ref="как-рисовать-арты"/>
+    <file name="u1032-125.png" crc="192452386" ref="как-рисовать-арты"/>
+    <file name="u1035-85.png" crc="3896722034" ref="как-рисовать-арты"/>
+    <file name="u1049-45.png" crc="287482938" ref="как-рисовать-арты"/>
+    <file name="u1052-175.png" crc="4056108752" ref="как-рисовать-арты"/>
+    <file name="u1070-45.png" crc="241493835" ref="как-рисовать-арты"/>
+    <file name="u1073-65.png" crc="4037177556" ref="как-рисовать-арты"/>
+    <file name="u1094-45.png" crc="3879022262" ref="как-рисовать-арты"/>
+    <file name="u11656.png" crc="3984559329" ref="как-рисовать-арты"/>
+    <file name="u1165-r6.png" crc="61373951" ref="как-рисовать-арты"/>
+    <file name="u11726.png" crc="291273342" ref="как-рисовать-арты"/>
+    <file name="u1172-r6.png" crc="188397995" ref="как-рисовать-арты"/>
+    <file name="u11866.png" crc="4045411205" ref="как-рисовать-арты"/>
+    <file name="u1186-r6.png" crc="4045411205" ref="как-рисовать-арты"/>
+    <file name="u1186-m6.png" crc="4045411205" ref="как-рисовать-арты"/>
+    <file name="u1186-a6.png" crc="222271615" ref="как-рисовать-арты"/>
+    <file name="u1193-4-a6.png" crc="209856823" ref="как-рисовать-арты"/>
+    <file name="u1006-46.png" crc="4146694411" ref="как-рисовать-арты"/>
+    <file name="u1015-116.png" crc="4104931829" ref="как-рисовать-арты"/>
+    <file name="u1032-126.png" crc="323952095" ref="как-рисовать-арты"/>
+    <file name="u1035-86.png" crc="310951723" ref="как-рисовать-арты"/>
+    <file name="u1049-46.png" crc="4099070826" ref="как-рисовать-арты"/>
+    <file name="u1052-176.png" crc="49385426" ref="как-рисовать-арты"/>
+    <file name="u1070-46.png" crc="233958866" ref="как-рисовать-арты"/>
+    <file name="u1073-66.png" crc="50202173" ref="как-рисовать-арты"/>
+    <file name="u1094-46.png" crc="501112995" ref="как-рисовать-арты"/>
   </folder>
-  <file name="index.html" crc="4117506744" seo="true" mt="1494101224461" redirect="true"/>
+  <file name="index.html" crc="156697841" seo="true" mt="1494262883490" redirect="true"/>
+  <file name="как-рисовать-арты.html" crc="4090031788" seo="true" mt="1494262889060" redirect="true"/>
 </manifest>
