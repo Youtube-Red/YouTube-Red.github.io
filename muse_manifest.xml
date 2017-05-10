@@ -1,10 +1,10 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="b-m-YouTube.com" resolutions="1x" timestamp="1494264207395">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="b-m-YouTube.com" resolutions="1x" timestamp="1494422126748">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="index.css" crc="3764635090" ref="index"/>
-    <file name="nomq_index.css" crc="130623262" ref="index"/>
-    <file name="___-________-____.css" crc="23829276" ref="как-рисовать-арты"/>
-    <file name="nomq____-________-____.css" crc="466129278" ref="как-рисовать-арты"/>
+    <file name="index.css" crc="4167087848" ref="index"/>
+    <file name="nomq_index.css" crc="4178312225" ref="index"/>
+    <file name="___-________-____.css" crc="193581654" ref="как-рисовать-арты"/>
+    <file name="nomq____-________-____.css" crc="3803818617" ref="как-рисовать-арты"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:как-рисовать-арты"/>
@@ -19,14 +19,14 @@
     <file name="require.js" crc="4234670167" ref="index:как-рисовать-арты"/>
   </folder>
   <folder name="images">
-    <file name="как-стать-успешным-ютубером-favicon.ico" crc="3813681325" ref="index"/>
+    <file name="как-стать-успешным-ютубером-favicon.ico" crc="4060486259" ref="index"/>
     <file name="xiaomi-yi-camera-review-pic-08.jpg" crc="3883493663" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u1287-4-a.png" crc="169344965" ref="index"/>
+    <file name="u1287-4-a.png" crc="4187300020" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index:как-рисовать-арты"/>
-    <file name="u1294.png" crc="3794210355" ref="index"/>
-    <file name="u1294-a.png" crc="91547313" ref="index"/>
+    <file name="u1294.png" crc="4087358905" ref="index"/>
+    <file name="u1294-a.png" crc="4205938843" ref="index"/>
     <file name="u560-15.png" crc="4000823145" ref="index"/>
     <file name="kompyuternaya-igra.jpg" crc="4077159716" ref="index">
       <caption webpage="index" alt=""/>
@@ -49,41 +49,40 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u1150-4.png" crc="455049866" ref="index"/>
-    <file name="u1287-4-a2.png" crc="508077813" ref="index"/>
-    <file name="u12942.png" crc="52146589" ref="index"/>
-    <file name="u1294-a2.png" crc="266665114" ref="index"/>
+    <file name="u1287-4-a2.png" crc="3880964484" ref="index"/>
+    <file name="u12942.png" crc="4073527502" ref="index"/>
+    <file name="u1294-a2.png" crc="3900682031" ref="index"/>
     <file name="u560-152.png" crc="4220804871" ref="index"/>
     <file name="u581-112.png" crc="4086732356" ref="index"/>
     <file name="u604-192.png" crc="3939560895" ref="index"/>
     <file name="u616-72.png" crc="262979943" ref="index"/>
     <file name="u1150-42.png" crc="48713543" ref="index"/>
-    <file name="u1287-4-a3.png" crc="4047225262" ref="index"/>
-    <file name="u12943.png" crc="489364299" ref="index"/>
-    <file name="u1294-a3.png" crc="4106733522" ref="index"/>
+    <file name="u1287-4-a3.png" crc="3896125169" ref="index"/>
+    <file name="u12943.png" crc="4076732474" ref="index"/>
+    <file name="u1294-a3.png" crc="3975027016" ref="index"/>
     <file name="u560-153.png" crc="4215722947" ref="index"/>
     <file name="u581-113.png" crc="4037114138" ref="index"/>
     <file name="u604-193.png" crc="160657076" ref="index"/>
     <file name="u616-73.png" crc="4004764327" ref="index"/>
     <file name="u1150-43.png" crc="4127269869" ref="index"/>
-    <file name="u1287-4-a4.png" crc="4110445369" ref="index"/>
-    <file name="u12944.png" crc="478730616" ref="index"/>
-    <file name="u1294-a4.png" crc="3874360902" ref="index"/>
+    <file name="u1287-4-a4.png" crc="270295515" ref="index"/>
+    <file name="u12944.png" crc="3975675057" ref="index"/>
+    <file name="u1294-a4.png" crc="458811418" ref="index"/>
     <file name="u560-154.png" crc="111953456" ref="index"/>
     <file name="kompyuternaya-igra-u567-fr.jpg" crc="3925203419" ref="index"/>
     <file name="u581-114.png" crc="92077493" ref="index"/>
     <file name="u604-194.png" crc="208663466" ref="index"/>
     <file name="u616-74.png" crc="82804126" ref="index"/>
     <file name="u1150-44.png" crc="3879022262" ref="index"/>
-    <file name="u1287-4-a5.png" crc="3816307715" ref="index"/>
-    <file name="u12945.png" crc="3977695462" ref="index"/>
-    <file name="u1294-a5.png" crc="183729006" ref="index"/>
+    <file name="u1287-4-a5.png" crc="4100078271" ref="index"/>
+    <file name="u12945.png" crc="494063990" ref="index"/>
+    <file name="u1294-a5.png" crc="3944606843" ref="index"/>
     <file name="u560-155.png" crc="4034749219" ref="index"/>
     <file name="kompyuternaya-igra-u567-fr2.jpg" crc="3767131568" ref="index"/>
     <file name="u581-115.png" crc="4256900228" ref="index"/>
     <file name="u604-195.png" crc="3797928804" ref="index"/>
     <file name="u616-75.png" crc="4165058808" ref="index"/>
     <file name="u1150-45.png" crc="501112995" ref="index"/>
-    <file name="как-рисовать-арты-favicon.ico" crc="3813681325" ref="как-рисовать-арты"/>
     <file name="art-paint-dark-sandbox-2538335.jpg" crc="159501865" ref="как-рисовать-арты">
       <caption webpage="как-рисовать-арты" alt=""/>
     </file>
@@ -202,6 +201,6 @@
     <file name="u1073-66.png" crc="50202173" ref="как-рисовать-арты"/>
     <file name="u1094-46.png" crc="501112995" ref="как-рисовать-арты"/>
   </folder>
-  <file name="index.html" crc="3777191405" seo="true" mt="1494264201195" redirect="true"/>
-  <file name="как-рисовать-арты.html" crc="21063670" seo="true" mt="1494264206697" redirect="true"/>
+  <file name="index.html" crc="3844716263" seo="true" mt="1494422120171" redirect="true"/>
+  <file name="как-рисовать-арты.html" crc="507910325" seo="true" mt="1494422125860" redirect="true"/>
 </manifest>
