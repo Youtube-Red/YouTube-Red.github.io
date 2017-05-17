@@ -1,78 +1,99 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="youtube-red.github.io" resolutions="1x" timestamp="1494749693594">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="youtube-red.github.io" resolutions="1x" timestamp="1495031914825">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="index.css" crc="3767746673" ref="index"/>
-    <file name="nomq_index.css" crc="4138424156" ref="index"/>
+    <file name="index.css" crc="4140937915" ref="index"/>
+    <file name="nomq_index.css" crc="205021072" ref="index"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
-    <file name="museutils.js" crc="4232573551" ref="index"/>
-    <file name="whatinput.js" crc="86476730" ref="index"/>
-    <file name="museconfig.js" crc="4152223963" ref="index"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="index"/>
-    <file name="jquery.watch.js" crc="3844535323" ref="index"/>
-    <file name="jquery.musemenu.js" crc="38860304" ref="index"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:tablet>index:index"/>
+    <file name="museutils.js" crc="4232573551" ref="phone>index:tablet>index:index"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:tablet>index:index"/>
+    <file name="museconfig.js" crc="4152223963" ref="phone>index:tablet>index:index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="phone>index:tablet>index:index"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="phone>index:tablet>index:index"/>
+    <file name="jquery.musemenu.js" crc="38860304" ref="phone>index:tablet>index:index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>index:tablet>index:index"/>
+    <file name="require.js" crc="4234670167" ref="phone>index:tablet>index:index"/>
     <file name="jquery.museresponsive.js" crc="433634197" ref="index"/>
-    <file name="require.js" crc="4234670167" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="как-стать-успешным-ютубером-favicon.ico" crc="3813681325" ref="index"/>
-    <file name="xiaomi-yi-camera-review-pic-08.jpg" crc="3883493663" ref="index">
+    <file name="как-стать-успешным-ютубером-favicon.ico" crc="3813681325" ref="phone>index:index"/>
+    <file name="xiaomi-yi-camera-review-pic-08.jpg" crc="3883493663" ref="phone>index:tablet>index:index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u1287-4-a.png" crc="3799408169" ref="index"/>
+    <file name="u3005-4-a.png" crc="420298557" ref="phone>index"/>
+    <file name="u2987-15.png" crc="222940542" ref="phone>index"/>
+    <file name="kompyuternaya-igra-u2988-fr.jpg" crc="277143439" ref="phone>index"/>
+    <file name="u2990-11.png" crc="321031053" ref="phone>index"/>
+    <file name="devushka.jpg" crc="3866035129" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2993-19.png" crc="315638606" ref="phone>index"/>
+    <file name="u2995-7.png" crc="4191632899" ref="phone>index"/>
+    <file name="muzhchina-1.jpg" crc="4047035580" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2999-4.png" crc="366168848" ref="phone>index"/>
+    <file name="355_01.jpg" crc="4181185509" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2699-4-a.png" crc="3799408169" ref="tablet>index"/>
+    <file name="u2680-16.png" crc="4003581099" ref="tablet>index"/>
+    <file name="kompyuternaya-igra.jpg" crc="4077159716" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2683-11.png" crc="4037114138" ref="tablet>index"/>
+    <file name="u2686-19.png" crc="160657076" ref="tablet>index"/>
+    <file name="u2688-7.png" crc="4004764327" ref="tablet>index"/>
+    <file name="u2692-4.png" crc="4127269869" ref="tablet>index"/>
+    <file name="u1287-4-a.png" crc="479580563" ref="index"/>
     <file name="u560-16.png" crc="3916231124" ref="index"/>
-    <file name="kompyuternaya-igra.jpg" crc="4077159716" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="u581-11.png" crc="3971935091" ref="index"/>
-    <file name="devushka.jpg" crc="3866035129" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="u604-19.png" crc="420675363" ref="index"/>
     <file name="u616-7.png" crc="3799871024" ref="index"/>
-    <file name="muzhchina-1.jpg" crc="4047035580" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="u1150-4.png" crc="455049866" ref="index"/>
+    <file name="u1287-4-a2.png" crc="146615255" ref="index"/>
     <file name="u560-162.png" crc="3867761213" ref="index"/>
     <file name="u581-112.png" crc="4086732356" ref="index"/>
     <file name="u604-192.png" crc="3939560895" ref="index"/>
     <file name="u616-72.png" crc="262979943" ref="index"/>
     <file name="u1150-42.png" crc="48713543" ref="index"/>
-    <file name="u1287-4-a2.png" crc="3799408169" ref="index"/>
-    <file name="u1287-4-a3.png" crc="3799408169" ref="index"/>
+    <file name="u1287-4-a3.png" crc="3809316352" ref="index"/>
     <file name="u560-163.png" crc="4003581099" ref="index"/>
     <file name="u581-113.png" crc="4037114138" ref="index"/>
     <file name="u604-193.png" crc="160657076" ref="index"/>
     <file name="u616-73.png" crc="4004764327" ref="index"/>
     <file name="u1150-43.png" crc="4127269869" ref="index"/>
-    <file name="u1287-4-a4.png" crc="3799408169" ref="index"/>
+    <file name="u1287-4-a4.png" crc="39871809" ref="index"/>
     <file name="u560-164.png" crc="234680962" ref="index"/>
     <file name="kompyuternaya-igra-u567-fr.jpg" crc="3925203419" ref="index"/>
     <file name="u581-114.png" crc="92077493" ref="index"/>
     <file name="u604-194.png" crc="208663466" ref="index"/>
     <file name="u616-74.png" crc="82804126" ref="index"/>
     <file name="u1150-44.png" crc="3879022262" ref="index"/>
-    <file name="u1287-4-a5.png" crc="312289005" ref="index"/>
+    <file name="u1287-4-a5.png" crc="3913843" ref="index"/>
     <file name="u560-165.png" crc="18061220" ref="index"/>
     <file name="kompyuternaya-igra-u567-fr2.jpg" crc="3767131568" ref="index"/>
     <file name="u581-115.png" crc="4256900228" ref="index"/>
     <file name="u604-195.png" crc="3797928804" ref="index"/>
     <file name="u616-75.png" crc="4165058808" ref="index"/>
     <file name="u1150-45.png" crc="501112995" ref="index"/>
-    <file name="u1287-4-a6.png" crc="3896125169" ref="index"/>
+    <file name="u1287-4-a6.png" crc="4063217287" ref="index"/>
     <file name="u560-166.png" crc="56362582" ref="index"/>
     <file name="kompyuternaya-igra-u567-fr3.jpg" crc="205096940" ref="index"/>
     <file name="u581-116.png" crc="3839170662" ref="index"/>
@@ -81,5 +102,19 @@
     <file name="u1150-46.png" crc="237318511" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
   </folder>
-  <file name="index.html" crc="328249342" seo="true" mt="1494749573737" redirect="true"/>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="index.css" crc="498578486" ref="tablet>index"/>
+      <file name="nomq_index.css" crc="3824530138" ref="tablet>index"/>
+    </folder>
+    <file name="index.html" crc="131791908" seo="true" mt="1494939591293" redirect="true"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="175538989" ref="phone>index"/>
+      <file name="nomq_index.css" crc="3824530138" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="163260748" seo="true" mt="1494940125206" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="148516599" seo="true" mt="1495031900733" redirect="true"/>
 </manifest>
