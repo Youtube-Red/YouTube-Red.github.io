@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="youtube-red.github.io" resolutions="1x" timestamp="1495271269135">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="youtube-red.github.io" resolutions="1x" timestamp="1495271814759">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="index.css" crc="4215117497" ref="index"/>
@@ -409,7 +409,6 @@
     </file>
     <file name="u3798-420.png" crc="3973656510" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="основы-web-дизайна!-научится-бесплатно!-favicon.ico" crc="3939538459" ref="index"/>
   </folder>
-  <file name="index.html" crc="124978594" seo="true" mt="1495271115194" redirect="true"/>
+  <file name="index.html" crc="3788362184" seo="true" mt="1495270979222" redirect="true"/>
 </manifest>
