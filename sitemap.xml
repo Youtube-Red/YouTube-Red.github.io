@@ -29,6 +29,9 @@
       <image:loc>http://youtube-red.github.io/images/%D0%BB%D0%BE%D0%B3%D0%BE-crop-u41183.png</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://youtube-red.github.io/images/2%20(1)464x457.png</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://youtube-red.github.io/images/%D0%BB%D0%BE%D0%B3%D0%BE-crop-u41184.png</image:loc>
     </image:image>
     <image:image>
@@ -225,9 +228,6 @@
     </image:image>
     <image:image>
       <image:loc>http://youtube-red.github.io/images/10245x114.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://youtube-red.github.io/images/2%20(1)464x457.png</image:loc>
     </image:image>
   </url>
 </urlset>
