@@ -2,9 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://youtube-red.github.io/index.html</loc>
-    <lastmod>2017-05-20</lastmod>
+    <lastmod>2017-05-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://youtube-red.github.io/phone/index.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://youtube-red.github.io/tablet/index.html"/>
     <image:image>
       <image:loc>http://youtube-red.github.io/images/%D0%BB%D0%BE%D0%B3%D0%BE.png</image:loc>
     </image:image>
@@ -25,9 +27,6 @@
     </image:image>
     <image:image>
       <image:loc>http://youtube-red.github.io/images/%D0%BB%D0%BE%D0%B3%D0%BE-crop-u41183.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://youtube-red.github.io/images/2%20(1)509x502.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://youtube-red.github.io/images/%D0%BB%D0%BE%D0%B3%D0%BE-crop-u41184.png</image:loc>
@@ -226,6 +225,9 @@
     </image:image>
     <image:image>
       <image:loc>http://youtube-red.github.io/images/10245x114.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://youtube-red.github.io/images/2%20(1)464x457.png</image:loc>
     </image:image>
   </url>
 </urlset>
