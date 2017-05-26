@@ -1,8 +1,8 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="youtube-red.github.io" resolutions="1x" timestamp="1495377845609">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="youtube-red.github.io" resolutions="1x" timestamp="1495800037804">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="index.css" crc="3924670178" ref="index"/>
-    <file name="nomq_index.css" crc="3813829117" ref="index"/>
+    <file name="index.css" crc="4121970816" ref="index"/>
+    <file name="nomq_index.css" crc="4105907131" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:tablet>index:index"/>
@@ -514,17 +514,17 @@
   </folder>
   <folder name="tablet">
     <folder name="css">
-      <file name="index.css" crc="167328286" ref="tablet>index"/>
-      <file name="nomq_index.css" crc="480790072" ref="tablet>index"/>
+      <file name="index.css" crc="93842938" ref="tablet>index"/>
+      <file name="nomq_index.css" crc="434428373" ref="tablet>index"/>
     </folder>
-    <file name="index.html" crc="138256224" seo="true" mt="1495377790953" redirect="true"/>
+    <file name="index.html" crc="3906920962" seo="true" mt="1495799942902" redirect="true"/>
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="349090390" ref="phone>index"/>
-      <file name="nomq_index.css" crc="3899240146" ref="phone>index"/>
+      <file name="index.css" crc="386047474" ref="phone>index"/>
+      <file name="nomq_index.css" crc="4152872133" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="4034955581" seo="true" mt="1495377811561" redirect="true"/>
+    <file name="index.html" crc="4037818680" seo="true" mt="1495799928290" redirect="true"/>
   </folder>
-  <file name="index.html" crc="3923090211" seo="true" mt="1495377776093" redirect="true"/>
+  <file name="index.html" crc="11506227" seo="true" mt="1495799985342" redirect="true"/>
 </manifest>
