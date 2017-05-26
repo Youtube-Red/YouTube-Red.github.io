@@ -1,7 +1,7 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="youtube-red.github.io" resolutions="1x" timestamp="1495800037804">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="youtube-red.github.io" resolutions="1x" timestamp="1495801441586">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="index.css" crc="4121970816" ref="index"/>
+    <file name="index.css" crc="512514660" ref="index"/>
     <file name="nomq_index.css" crc="4105907131" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -517,14 +517,14 @@
       <file name="index.css" crc="93842938" ref="tablet>index"/>
       <file name="nomq_index.css" crc="434428373" ref="tablet>index"/>
     </folder>
-    <file name="index.html" crc="3906920962" seo="true" mt="1495799942902" redirect="true"/>
+    <file name="index.html" crc="102522509" seo="true" mt="1495801402433" redirect="true"/>
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="386047474" ref="phone>index"/>
-      <file name="nomq_index.css" crc="4152872133" ref="phone>index"/>
+      <file name="index.css" crc="229537540" ref="phone>index"/>
+      <file name="nomq_index.css" crc="3880302140" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="4037818680" seo="true" mt="1495799928290" redirect="true"/>
+    <file name="index.html" crc="522271552" seo="true" mt="1495801411003" redirect="true"/>
   </folder>
-  <file name="index.html" crc="11506227" seo="true" mt="1495799985342" redirect="true"/>
+  <file name="index.html" crc="3899932986" seo="true" mt="1495801395192" redirect="true"/>
 </manifest>
