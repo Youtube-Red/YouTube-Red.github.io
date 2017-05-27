@@ -1,8 +1,8 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="youtube-red.github.io" resolutions="1x" timestamp="1495878964895">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="youtube-red.github.io" resolutions="1x" timestamp="1495902325392">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="index.css" crc="3868837669" ref="index"/>
-    <file name="nomq_index.css" crc="522217249" ref="index"/>
+    <file name="index.css" crc="255511901" ref="index"/>
+    <file name="nomq_index.css" crc="3871639991" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:tablet>index:index"/>
@@ -185,7 +185,7 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u11110-44.png" crc="381722386" ref="tablet>index"/>
-    <file name="лого-crop-u11118.png" crc="3837192904" seo="true" ref="tablet>index">
+    <file name="лого-crop-u11118.png" crc="4136508998" seo="true" ref="tablet>index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u11103-175.png" crc="206833686" ref="tablet>index"/>
@@ -258,10 +258,10 @@
     </file>
     <file name="u4335-257.png" crc="384358245" ref="index"/>
     <file name="u3798-47.png" crc="4220765091" ref="index"/>
-    <file name="лого-crop-u41185.png" crc="412530460" seo="true" ref="index">
+    <file name="лого-crop-u4457.png" crc="261671430" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="лого-crop-u4457.png" crc="261671430" seo="true" ref="index">
+    <file name="лого-crop-u41185.png" crc="412530460" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u3786-178.png" crc="68651740" ref="index"/>
@@ -515,17 +515,17 @@
   </folder>
   <folder name="tablet">
     <folder name="css">
-      <file name="index.css" crc="296991195" ref="tablet>index"/>
-      <file name="nomq_index.css" crc="4189015957" ref="tablet>index"/>
+      <file name="index.css" crc="4294072075" ref="tablet>index"/>
+      <file name="nomq_index.css" crc="245814200" ref="tablet>index"/>
     </folder>
-    <file name="index.html" crc="392972794" seo="true" mt="1495878449342" redirect="true"/>
+    <file name="index.html" crc="382340641" seo="true" mt="1495902133021" redirect="true"/>
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="396244509" ref="phone>index"/>
-      <file name="nomq_index.css" crc="3835721593" ref="phone>index"/>
+      <file name="index.css" crc="3825244882" ref="phone>index"/>
+      <file name="nomq_index.css" crc="183279604" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="3815611047" seo="true" mt="1495878579925" redirect="true"/>
+    <file name="index.html" crc="184024697" seo="true" mt="1495902275914" redirect="true"/>
   </folder>
-  <file name="index.html" crc="256535721" seo="true" mt="1495878037085" redirect="true"/>
+  <file name="index.html" crc="225136833" seo="true" mt="1495902124479" redirect="true"/>
 </manifest>
