@@ -1,8 +1,8 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="youtube-red.github.io" resolutions="1x" timestamp="1495801441586">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="youtube-red.github.io" resolutions="1x" timestamp="1495878964895">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="index.css" crc="512514660" ref="index"/>
-    <file name="nomq_index.css" crc="4105907131" ref="index"/>
+    <file name="index.css" crc="3868837669" ref="index"/>
+    <file name="nomq_index.css" crc="522217249" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:tablet>index:index"/>
@@ -16,43 +16,6 @@
   </folder>
   <folder name="images">
     <file name="238_irlandskiy-sayt-warm-ireland.jpg" crc="432439046" ref="phone>index:tablet>index:index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="лого.png" crc="4288446977" seo="true" ref="phone>index:tablet>index:index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="u9873-17.png" crc="536328495" ref="phone>index"/>
@@ -98,9 +61,6 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="лого-crop-u10434.png" crc="4097078141" seo="true" ref="phone>index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="u9873-172.png" crc="149105557" ref="phone>index"/>
     <file name="u9874-112.png" crc="4071983471" ref="phone>index"/>
     <file name="u9875-122.png" crc="4191983945" ref="phone>index"/>
@@ -116,6 +76,47 @@
     </file>
     <file name="u9880-42.png" crc="3917289388" ref="phone>index"/>
     <file name="blank.gif" crc="4208392903" ref="phone>index:tablet>index:index"/>
+    <file name="лого.png" crc="4288446977" seo="true" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="u11103-17.png" crc="499578194" ref="tablet>index"/>
     <file name="u11104-11.png" crc="4222214320" ref="tablet>index"/>
     <file name="u11105-12.png" crc="3946142639" ref="tablet>index"/>
@@ -184,7 +185,7 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u11110-44.png" crc="381722386" ref="tablet>index"/>
-    <file name="лого-crop-u11118.png" crc="4136508998" seo="true" ref="tablet>index">
+    <file name="лого-crop-u11118.png" crc="3837192904" seo="true" ref="tablet>index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u11103-175.png" crc="206833686" ref="tablet>index"/>
@@ -514,17 +515,17 @@
   </folder>
   <folder name="tablet">
     <folder name="css">
-      <file name="index.css" crc="93842938" ref="tablet>index"/>
-      <file name="nomq_index.css" crc="434428373" ref="tablet>index"/>
+      <file name="index.css" crc="296991195" ref="tablet>index"/>
+      <file name="nomq_index.css" crc="4189015957" ref="tablet>index"/>
     </folder>
-    <file name="index.html" crc="102522509" seo="true" mt="1495801402433" redirect="true"/>
+    <file name="index.html" crc="392972794" seo="true" mt="1495878449342" redirect="true"/>
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="229537540" ref="phone>index"/>
-      <file name="nomq_index.css" crc="3880302140" ref="phone>index"/>
+      <file name="index.css" crc="396244509" ref="phone>index"/>
+      <file name="nomq_index.css" crc="3835721593" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="522271552" seo="true" mt="1495801411003" redirect="true"/>
+    <file name="index.html" crc="3815611047" seo="true" mt="1495878579925" redirect="true"/>
   </folder>
-  <file name="index.html" crc="3899932986" seo="true" mt="1495801395192" redirect="true"/>
+  <file name="index.html" crc="256535721" seo="true" mt="1495878037085" redirect="true"/>
 </manifest>
